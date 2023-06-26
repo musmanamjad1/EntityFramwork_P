@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXta1DMzZtkRfQRF6E5y2rPP/224d+KveMSfbWaQ8J4vhalYFeHvz9v5e/bYz24D8dfArav+UQBE5gQUTnv1QQ==",
+  "success": true,
+  "projectFilePath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TK-LPT-305\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

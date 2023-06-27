@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj": {}
+    "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj": {}
   },
   "projects": {
-    "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj": {
+    "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
-        "projectName": "EFDemoWeb",
-        "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+        "projectUniqueName": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj",
+        "projectName": "EFDataAccessLibrary",
+        "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\TK-LPT-305\\.nuget\\packages\\",
-        "outputPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb\\obj\\",
+        "outputPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TK-LPT-305\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +40,76 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+        "projectName": "EFDemoWeb",
+        "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+        "packagesPath": "C:\\Users\\TK-LPT-305\\.nuget\\packages\\",
+        "outputPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TK-LPT-305\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj": {
+                "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

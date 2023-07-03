@@ -1,6 +1,6 @@
 C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\appsettings.Development.json
-C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\appsettings.json
 C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\EFDemoWeb.exe
+C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\appsettings.json
 C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\EFDemoWeb.deps.json
 C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\EFDemoWeb.runtimeconfig.json
 C:\D for Data\Projects\Sources\Practice\EFDemoWeb\EFDemoWeb\bin\Debug\net6.0\EFDemoWeb.dll

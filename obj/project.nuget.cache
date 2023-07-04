@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zh34XYnIunLhIAoWUiDxlG6+chr7MZTG5bqVCI4JBjT3SgJdlgE+FM0QlSGY2KMQk9t/CKIfA2dfujv2NogsZQ==",
+  "dgSpecHash": "mrXJL7wXI04Ec5bpkp7N92IoaLtkXdGMTQwQYlOLu/xL6TEVpbE+vFTK6WNvQPkSpUlPu5I23cN9lfuUNjYDzg==",
   "success": true,
-  "projectFilePath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+  "projectFilePath": "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TK-LPT-305\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\TK-LPT-305\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

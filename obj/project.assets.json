@@ -3746,11 +3746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+      "projectUniqueName": "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
       "projectName": "EFDemoWeb",
-      "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+      "projectPath": "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
       "packagesPath": "C:\\Users\\TK-LPT-305\\.nuget\\packages\\",
-      "outputPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\obj\\",
+      "outputPath": "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDemoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TK-LPT-305\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3768,8 +3768,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj": {
-              "projectPath": "C:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj"
+            "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj": {
+              "projectPath": "D:\\D for Data\\Projects\\Sources\\Practice\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj"
             }
           }
         }

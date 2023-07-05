@@ -1,0 +1,122 @@
+[
+  {
+    "FirstName": "Emily",
+    "LastName": "Davis",
+    "Age": 28,
+    "Addresses": [
+      {
+        "StreetAddress": "321 Maple Ln",
+        "City": "Boston",
+        "State": "MA",
+        "ZipCode": "02101"
+      },
+      {
+        "StreetAddress": "555 Elm St",
+        "City": "Denver",
+        "State": "CO",
+        "ZipCode": "80201"
+      },
+      {
+        "StreetAddress": "888 Oak Ave",
+        "City": "Miami",
+        "State": "FL",
+        "ZipCode": "33101"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "emily.davis@example.com"
+      },
+      {
+        "EmailAddress": "edavis28@gmail.com"
+      },
+      {
+        "EmailAddress": "emily.davis@company.com"
+      },
+      {
+        "EmailAddress": "emilydavis@hotmail.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Smith",
+    "Age": 35,
+    "Addresses": [
+      {
+        "StreetAddress": "123 Main St",
+        "City": "New York",
+        "State": "NY",
+        "ZipCode": "10001"
+      },
+      {
+        "StreetAddress": "456 Oak Ave",
+        "City": "Chicago",
+        "State": "IL",
+        "ZipCode": "60601"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "johnsmith@example.com"
+      },
+      {
+        "EmailAddress": "jsmith35@gmail.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sarah",
+    "LastName": "Johnson",
+    "Age": 42,
+    "Addresses": [
+      {
+        "StreetAddress": "789 Elm St",
+        "City": "Los Angeles",
+        "State": "CA",
+        "ZipCode": "90001"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "sarahjohnson@example.com"
+      },
+      {
+        "EmailAddress": "sjohnson42@gmail.com"
+      },
+      {
+        "EmailAddress": "sarah.johnson@workplace.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Brown",
+    "Age": 50,
+    "Addresses": [
+      {
+        "StreetAddress": "987 Oak Ave",
+        "City": "San Francisco",
+        "State": "CA",
+        "ZipCode": "94101"
+      },
+      {
+        "StreetAddress": "654 Maple Ln",
+        "City": "Seattle",
+        "State": "WA",
+        "ZipCode": "98101"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "michaelbrown@example.com"
+      },
+      {
+        "EmailAddress": "mbrown50@gmail.com"
+      },
+      {
+        "EmailAddress": "michael.brown@company.com"
+      }
+    ]
+  }
+]
